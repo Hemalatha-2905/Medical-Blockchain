@@ -1,5 +1,4 @@
-# Medical-Blockchain
-
+# Blockchain-Application
 
 # 🏥 Medical-Blockchain-Implementation
 
@@ -41,4 +40,4 @@ This project demonstrates how blockchain concepts can be applied in **healthcare
 
 ---
 
-👨‍💻 *Created as a beginner-friendly demonstration of blockchain in healthcare.*
+
